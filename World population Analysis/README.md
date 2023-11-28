@@ -1,4 +1,4 @@
-## Case study #4: Analysis of World Population
+## Case study #3: Analysis of World Population
 In this project, I've analyzed the world's population data from a dataset retrieved from Kaggle. The dataset comprises information on world population data from different countries over the period of 1970 to 2022.
 
 ### Case Study Questions
