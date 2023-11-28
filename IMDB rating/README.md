@@ -14,11 +14,11 @@ The Database for this case study consists of 3 Tables -
 -- Do not print any row where either the genre or the net profit is empty/null.\
 -- net_profit = Domestic + Worldwide - Budget\
 -- Keep the name of the columns as 'genre' and'net_profit'\
--- The genres should be printed in alphabetical order.\
+-- The genres should be printed in alphabetical order.
 
 4. Print the genre and the maximum weighted rating among all the movies of that genre released in 2014 per genre.
 #### Note:
 -- Do not print any row where either the genre or the weighted rating is empty/null.\
 -- weighted_rating = average of (rating + Metacritic/10.0)\
 -- Keep the name of the columns as 'genre' and 'weighted_rating'\
--- The genres should be printed in alphabetical order.\
+-- The genres should be printed in alphabetical order.
