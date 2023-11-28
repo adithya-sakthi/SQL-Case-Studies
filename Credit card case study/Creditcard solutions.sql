@@ -1,10 +1,10 @@
--- Date  : 01-June-2023
+
 use Creditcard
 go
 
 --Questions:
 
---1. write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
+--1. write a query to print the top 5 cities with the highest spends and their percentage contribution of total credit card spends 
 --2. write a query to print highest spend month and amount spent in that month for each card type
 --3. write a query to print the transaction details(all columns from the table) for each card type when
 --it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p one for each card type)
@@ -12,7 +12,7 @@ go
 --5. write a query to print 3 columns: city, highest_expense_type , lowest_expense_type (example format : Delhi , bills, Fuel)
 --6. write a query to find percentage contribution of spends by females for each expense type
 --7. which card and expense type combination saw highest month over month growth in Jan-2014
---8. during weekends which city has highest total spend to total no of transcations ratio 
+--8. during weekends which city has highest total spend to total no of transactions ratio 
 --9. which city took least number of days to reach its 500th transaction after first transaction in that city
 
 select 
@@ -45,7 +45,7 @@ order by 2 desc; -- Show me the total frequency usage by city
 select Gender,Card_Type,count(1) as Frequency_Usage
 from credit_card_transactions
 group by Gender,Card_Type 
-order by 3 desc;              -- Female do more credit card transactions as compared to male .
+order by 3 desc;              -- Females do more credit card transactions as compared to males.
 
 
 select Gender,Card_Type,count(1) as Total_users
@@ -263,9 +263,9 @@ FROM		CTE3
 ORDER BY	DAYS_TO_REACH_500TH_TRANS;
 
 Some of the key insights are :
-1) Allocate additional marketing resources and promotional campaigns to the top 5cities to capitalize on their high spending patterns.
-2) Plan targeted promotional offers or campaigns during the highest spending monthsfor each card type to encourage increased spending.
-3) Investigate the reasons behind the low spending in the identified city and considertargeted marketing strategies or partnerships to increase spending in that location.
+1) Allocate additional marketing resources and promotional campaigns to the top 5 cities to capitalize on their high spending patterns.
+2) Plan targeted promotional offers or campaigns during the highest spending months for each card type to encourage increased spending.
+3) Investigate the reasons behind the low spending in the identified city and consider targeted marketing strategies or partnerships to increase spending in that location.
 4) Allocate additional staffing or resources in the city with the highest spend-to-transaction ratio during weekends to capitalize on increased spending opportunities.
-5) Identify market potential and consider targeted marketing efforts in the city withthe fastest transaction growth to capture new customers and increase businessgrowth.
-6) Develop specific product or service offerings targeted towards females based ontheir significant contribution to spending in specific expense categories.
+5) Identify market potential and consider targeted marketing efforts in the city with the fastest transaction growth to capture new customers and increase business growth.
+6) Develop specific product or service offerings targeted towards females based on their significant contribution to spending in specific expense categories.
