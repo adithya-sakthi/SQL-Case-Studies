@@ -1,13 +1,8 @@
 # Unveiling the Stars: Exploring NASA Astronauts
-
-### INTRODUCTION:
-This project aims to uncover insights into NASA astronauts by analyzing a comprehensive dataset. In this exploration, we'll dive into the demographics, careers, and achievements of these remarkable individuals who have ventured into the cosmos.
-
-### PROBLEM STATEMENT:
-The provided dataset includes astronaut details like names, birthdates, gender, education, military history, space missions, and more. The goal is to uncover insights into astronauts' demographics, careers, and achievements through descriptive statistics and data visualization.
+This case study aims to uncover insights into NASA astronauts by analyzing a comprehensive dataset. In this exploration, we'll dive into the demographics, careers, and achievements of these remarkable individuals who have ventured into the cosmos.
 
 ### TOOLS AND TECHNIQUES:
-Python: Utilized for data cleaning, exploration, and visualization.
+Python: Utilized for data cleaning, exploration, and visualization. \
 MySQL: Employed for extracting valuable insights from the dataset.
 
 ### TASKS:
