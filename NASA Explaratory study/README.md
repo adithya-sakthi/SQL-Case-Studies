@@ -1,10 +1,8 @@
-## Case Study 3
-### Unveiling the Stars: Exploring NASA Astronauts
+## Case Study #3: Exploring NASA Astronauts
 This case study aims to uncover insights into NASA astronauts by analyzing a comprehensive dataset. In this exploration, we'll dive into the demographics, careers, and achievements of these remarkable individuals who have ventured into the cosmos.
 
 ### TECH STACK:
-Python: Utilized for data cleaning, exploration, and visualization. \
-MySQL: Employed for extracting valuable insights from the dataset.
+Python, Mysql.
 
 ### TASKS:
 
