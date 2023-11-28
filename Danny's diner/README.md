@@ -26,7 +26,7 @@ Bonus questions:
 1. Join all the things
 2. Rank all the things
 
-Click here to view my solution [**solution**](https://github.com/adithya-sakthi/SQL-Case-Studies/blob/main/Danny's%20diner/dannys_diner_solution.sql)
+Click here to view my [**solution**](https://github.com/adithya-sakthi/SQL-Case-Studies/blob/main/Danny's%20diner/dannys_diner_solution.sql)
 
 ***
 
