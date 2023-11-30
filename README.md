@@ -1,4 +1,4 @@
-# Explore SQL Case Studies Together!
+# Explore SQL Case Studies!
 
 Here, you'll find a collection of SQL case study problems that I've analyzed during my learning journey.
 Feel free to review my solutions and attempt the problems with your unique approach. 
