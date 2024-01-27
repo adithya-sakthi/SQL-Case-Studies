@@ -10,5 +10,5 @@ I used various SQL functions such as :
 * Logical Operator              
 * Group by, Order by, Where         
 * Aggregate functions Sum, Count                
-* Date functions datepart,Datename, Datediff               
+* Date functions datepart, Datename, Datediff               
 * Window functions(DENSE_RANK, LAG)               
