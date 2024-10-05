@@ -26,7 +26,7 @@ Bonus questions:
 1. Join all the things
 2. Rank all the things
 
-Insights generated:
+### Insights generated:
 A few interesting insights that would be certainly useful for Danny.
 
 * Customer B is the most frequent visitor with 6 visits in Jan 2021.
@@ -38,7 +38,7 @@ A few interesting insights that would be certainly useful for Danny.
 * Throughout Jan 2021, their points for Customer A: 860, Customer B: 940 and Customer C: 360.
 * Assuming that members can earn 2x a week from the day they became a member with bonus 2x points for sushi, Customer A has 660 points and Customer B has 340 by the end of Jan 2021.
 
-Click here to view my [**solution**](https://github.com/adithya-sakthi/SQL-Case-Studies/blob/main/Danny's%20diner/dannys_diner_solution.sql)
+Click here to view my [** full solution**](https://github.com/adithya-sakthi/SQL-Case-Studies/blob/main/Danny's%20diner/dannys_diner_solution.sql)
 
 ***
 
