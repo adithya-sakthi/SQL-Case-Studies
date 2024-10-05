@@ -109,3 +109,16 @@ CASE WHEN member = 'Y' THEN DENSE_RANK() OVER(PARTITION BY customer_id,member OR
 ELSE 'Null'
 END AS ranking 
 from final ;
+
+
+Insights:
+A few interesting insights that would be certainly useful for Danny.
+
+* Customer B is the most frequent visitor with 6 visits in Jan 2021.
+* Danny’s Diner’s most popular item is ramen, followed by curry and sushi.
+* Customer A and C loves ramen whereas Customer B seems to enjoy sushi, curry and ramen equally. Who knows, I might be Customer B!
+* Customer A is the 1st member of Danny’s Diner and his first order is curry. Gotta fulfill his curry cravings!
+* The last item ordered by Customers A and B before they became members are sushi and curry. Does it mean both of these items are the deciding factor? It must be really delicious for them to sign up as members!
+* Before they became members, both Customers A and B spent $25 and $40.
+* Throughout Jan 2021, their points for Customer A: 860, Customer B: 940 and Customer C: 360.
+* Assuming that members can earn 2x a week from the day they became a member with bonus 2x points for sushi, Customer A has 660 points and Customer B has 340 by the end of Jan 2021.
